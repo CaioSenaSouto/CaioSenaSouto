@@ -9,7 +9,7 @@
 <div>
   <a href="https://app.rocketseat.com.br/me/caio-sena-souto-08423">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Caio-Goku" src="https://www.icegif.com/wp-content/uploads/goku-icegif-15.gif">
+  <img height="180em" align="right" alt="Caio-Goku" src="https://www.icegif.com/wp-content/uploads/goku-icegif-15.gif">
     <br></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
 </div>
