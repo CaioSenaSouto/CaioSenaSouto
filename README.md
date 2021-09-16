@@ -5,7 +5,7 @@
 - 🤔 Aceito dicas e compartilhamento de conhecimento
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
-
+<img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 ##
 <h1>let's develop</h1>
 <br>
@@ -15,7 +15,6 @@
   <img height="180em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
     <br></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
