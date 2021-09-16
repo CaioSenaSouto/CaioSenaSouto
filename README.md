@@ -22,7 +22,7 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="180em" align="right" alt="Luigi" src="<iframe src="https://gifer.com/embed/5noS" width=480 height=300.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>">
+  <img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 </div>
 
 ##
