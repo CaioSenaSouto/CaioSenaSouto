@@ -1,11 +1,10 @@
 ### Olá! Eu sou Caio, seja bem-vindo! 👋
-
+<img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 - 🌱 Estou iniciando minha jornada como Dev
 - (Lógica de programação, HTML, CSS e JavaScript)
 - 🤔 Aceito dicas e compartilhamento de conhecimento
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
-<img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 ##
 <h1>let's develop</h1>
 <br>
