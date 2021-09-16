@@ -12,7 +12,7 @@
   <a href="https://app.rocketseat.com.br/me/caio-sena-souto-08423">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
-  <! -- <img height="180em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"> -->
+  <! -- <img height="180em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"-->
     <br></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
 </div>
