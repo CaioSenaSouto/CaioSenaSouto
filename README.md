@@ -2,7 +2,7 @@
 
 - 🌱 Estou iniciando minha jornada como Dev
 - (Lógica de programação, HTML, CSS e JavaScript)
-- 🤔 Aceito dicas e compartilhamento de conhecimento
+- 🚀 Participando do Acelera Tech - Resilia
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
 ##
