@@ -7,8 +7,6 @@
 - 🚀 Participando do Acelera Tech - Resilia + Neon
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
-
-##
 <h1>let's develop</h1>
   <br>
   <div style="display: inline_block"><br>>
