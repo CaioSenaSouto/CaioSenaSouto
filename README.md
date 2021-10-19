@@ -1,6 +1,6 @@
 ### Olá! Eu sou Caio, seja bem-vindo! 👋
 
-  <img height="180em" align="right" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
+   <img height="160em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"
   
 - 🌱 Estou iniciando minha jornada como Dev
 - (Lógica de programação, HTML, CSS e JavaScript)
@@ -10,11 +10,9 @@
 <h1>let's develop</h1>
   <br>
   <div style="display: inline_block"><br>>
-    <a href="https://app.rocketseat.com.br/me/caio-sena-souto-08423">
     <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <! -- <img height="160em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"-->
-      <br></br>
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
+      <br>
+    <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
