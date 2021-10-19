@@ -5,16 +5,16 @@
 - 🚀 Participando do Acelera Tech - Resilia + Neon
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
+  <img height="180em" align="rigth" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
 ##
 <h1>let's develop</h1>
 <br>
 <div>
   <a href="https://app.rocketseat.com.br/me/caio-sena-souto-08423">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="left" alt="Luigi" src="https://c.tenor.com/7Rpo-wQrnssAAAAC/stare-glare.gif">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <! -- <img height="160em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"-->
     <br></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
