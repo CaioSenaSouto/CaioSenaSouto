@@ -8,12 +8,11 @@
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
 
-##
-
 <h1>let's develop</h1>
+<br>
   <div style="display: flex">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSenaSouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSenaSouto&layout=compact&langs_count=7&theme=dark">
   </div>
   
  ##
