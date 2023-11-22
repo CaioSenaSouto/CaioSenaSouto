@@ -2,9 +2,9 @@
 
    <img height="160em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
   
-- 🌱 Estou iniciando minha jornada como Dev
-- (Lógica de programação, HTML, CSS e JavaScript)
-- 🚀 Participando do Acelera Tech - Resilia + Neon
+- 🌱 Software Engineer II
+- (Lógica de programação, JavaScript, Python)
+- 🚀 2 anos como desenvolvedor na Neon
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
 
