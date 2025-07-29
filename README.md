@@ -4,7 +4,7 @@
   
 - 🌱 Software Engineer II
 - (Lógica de programação, JavaScript, Python)
-- 🚀 2 anos como desenvolvedor na Neon
+- 🚀 3 anos e meio como desenvolvedor na Neon
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
 
