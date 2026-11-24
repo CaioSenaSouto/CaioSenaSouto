@@ -3,8 +3,8 @@
    <img height="160em" align="right" alt="We can code this" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
   
 - 🌱 Software Engineer II
-- (Lógica de programação, JavaScript, Python)
-- 🚀 3 anos e meio como desenvolvedor na Neon
+- (Lógica de programação, JavaScript, Python, Typescript, Arquitetura)
+- 🚀 4 anos e meio como Engenheiro de Software na Neon
 - 📫 caio.sena22@gmail.com
 - 😄 Pronouns: ele/dele
 
